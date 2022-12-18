@@ -1,0 +1,5 @@
+# Lista de arquivos ignorados do versionamento
+
+# Diagramas de Mapas Mentais do Astah
+*.asta.lock
+
